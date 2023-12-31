@@ -13,7 +13,8 @@ Each category aims to address specific sub-questions, utilizing custom SQL code 
 To achieve this, the initial steps involve cleaning the raw data followed by conducting exploratory data analysis (EDA).
 
 ## Data Sources
-To conduct this analysis, I utilized my 2022 NFT transaction data stored in the file named 'NFT_Raw_Date.csv', available in the repository.
+To conduct this analysis, I utilized my 2022 NFT transaction data stored in the file named ['NFT_Raw_Date.csv'](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/NFT_Raw_Date.csv), available in the repository.
+
 Note: 
 + The displayed values are in Ethereum (ETH), with four decimals due to the currency's high price.
 + For security purposes, NFT names have been removed, and hash transactions have not been included.
@@ -40,7 +41,7 @@ I conducted data cleaning on the NFT raw data to ensure its suitability for effe
   + Transfer
   + Type
 
-The cleaned dataset, named 'NFT_Cleaned_Data.csv', is available in the repository.
+The cleaned dataset, named ['NFT_Cleaned_Data.csv'](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/NFT_Cleaned_Data.csv), is available in the repository.
 
 ## Questions and Insights (EDA)
 Here are outlined questions I aimed to answer and the key insights/findings I have discovered from the analysis.
