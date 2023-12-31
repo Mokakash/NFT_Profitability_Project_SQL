@@ -49,11 +49,11 @@ Here are outlined questions I aimed to answer and the key insights/findings I ha
 
 ### Profit Analysis:
 + **What is the total profit/loss from all transactions?** (21.6725 ETH profit) - This indicates an overall profitable year in 2022. Despite individual trades resulting in both profit and loss, the cumulative result across all transactions shows a positive outcome, affirming the overall success of trading activities throughout the year.
-+ ![image1](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/Images/01_Total_Profit_Loss.png?raw=true)
+![image1](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/Images/01_Total_Profit_Loss.png?raw=true)
 + **Individual trade with the highest Profit** - The individual trade that resulted in the highest profit was 3.2484 ETH. This trade was associated with the NP alpha group and utilized the Mint trading method.
-+ ![image2](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/Images/02_Highest_Profit.png?raw=true)
+![image2](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/Images/02_Highest_Profit.png?raw=true)
 + **Individual trade with the highest Loss** - The individual trade that resulted in the highest loss was -2.5372 ETH. This trade, similar to the highest profit trade, was associated with the NP alpha group and utilized the Mint trading method.
-+ ![image3](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/Images/03_Highest_Loss.png?raw=true)
+![image3](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/Images/03_Highest_Loss.png?raw=true)
 ### Profitability by Transaction Methods:
 + **How many trades were through each method of transaction (minting, secondary trades, or airdrops)?** Minting recorded 370 trades, indicating its prevalence, followed by 143 trades through Secondary transactions and a smaller count of 29 trades via Airdrops.
 + ![image4](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/Images/04_Trade_Count.png?raw=true)
