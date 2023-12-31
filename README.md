@@ -8,12 +8,13 @@ The primary objectives of this project encompass a comprehensive analysis of 202
 + Alpha Group Performance
 + Monthly Analysis 
 + Wallet Performance
+
 Each category aims to address specific sub-questions, utilizing custom SQL code to delve into understanding profit generation, trading method efficiency, alpha group contributions, monthly trends, and individual wallet performance within the NFT trading landscape.
 
 To achieve this, the initial steps involve cleaning the raw data followed by conducting exploratory data analysis (EDA).
 
 ## Data Sources
-To conduct this analysis, I utilized my 2022 NFT transaction data stored in the file named ['NFT_Raw_Date.csv'](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/NFT_Raw_Date.csv), available in the repository.
+To conduct this analysis, I utilized my 2022 NFT transaction data stored in the file named ['NFT_Raw_Data.csv'](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/NFT_Raw_Data.csv), available in the repository.
 
 Note: 
 + The displayed values are in Ethereum (ETH), with four decimals due to the currency's high price.
