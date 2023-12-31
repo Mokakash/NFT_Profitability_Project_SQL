@@ -43,6 +43,7 @@ I conducted data cleaning on the NFT raw data to ensure its suitability for effe
   + Type
 
 The cleaned dataset, named ['NFT_Cleaned_Data.csv'](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/NFT_Cleaned_Data.csv), is available in the repository.
+Additionally, the MySQL code used for data cleaning can be found in the repository as ['NFT_Data_Cleaning.sql'](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/NFT_Data_Cleaning.sql), providing transparency and insight into the steps taken to refine the dataset.
 
 ## Questions and Insights (EDA)
 Here are outlined questions I aimed to answer and the key insights/findings I have discovered from the analysis.
@@ -82,6 +83,8 @@ Here are outlined questions I aimed to answer and the key insights/findings I ha
 + **What's the average profit per trade for each wallet?** The main wallet shows the highest average profit per trade at 0.0795 ETH, followed by the Burner wallet at 0.0019 ETH. Conversely, the Ledger wallet reflects an average loss per trade at -0.300 ETH.
 + ![image14](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/Images/14_Avg_per_Wallet.png?raw=true)
 + **Are there any particular wallets consistently performing better in terms of profit?** Yes, the Main wallet not only gained the highest total profit but also maintained a consistently higher average profit per transaction compared to the Burner and Ledger wallets. However, we need to consider that the 'Ledger wallet' is a cold wallet primarily used for storing the highest value NFTs rather than frequent trading. This specialized usage might explain the lower profitability observed in the Ledger wallet compared to the Main wallet's active trading behavior.
+
+The MySQL code used to derive these insights and answer questions is available in the repository as ['NFT_EDA_&_Insights.sql'](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/NFT_EDA_%26_Insights.sql).
 
 ## Conclusion
 In summary, the ***Mint Trade Method*** stood out as the most profitable, especially within the ***Main Wallet*** showcasing both high total profits and average profits per trade. Interestingly, while the NP alpha group generated the highest profit overall, it ranked third in average profit. This suggests that focusing more on ***LV*** (the group with the highest average profit) might have been a more beneficial investment of time, although spending time across LV, AS, and NP groups still proved advantageous. Notably, January and April were the months with the highest profits, but the ***third quarter (Q3)*** emerged as the most profitable period for trading overall.
