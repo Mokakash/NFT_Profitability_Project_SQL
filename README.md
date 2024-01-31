@@ -16,7 +16,7 @@ To achieve this, the initial steps involve cleaning the raw data followed by con
 ## Data Sources
 To conduct this analysis, I utilized my 2022 NFT transaction data stored in the file named ['NFT_Raw_Data.csv'](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/NFT_Raw_Data.csv), available in the repository.
 
-Note: 
+Note:
 + The displayed values are in Ethereum (ETH), with four decimals due to the currency's high price.
 + For security purposes, NFT names have been removed, and hash transactions have not been included.
 + Names of Alpha groups have been intentionally abbreviated to maintain confidentiality and protect sensitive information. 
