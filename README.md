@@ -4,7 +4,7 @@ Welcome to the NFT Profitability Analysis project! Similar to stocks or crypto t
 ## Objectives 
 The primary objectives of this project encompass a comprehensive analysis of 2022 NFT trading data across five key categories. These categories include:
 + Profit Analysis
-+ Profitability by Trading Methods
++ Profitability by Trading Methods 
 + Alpha Group Performance
 + Monthly Analysis
 + Wallet Performance 
