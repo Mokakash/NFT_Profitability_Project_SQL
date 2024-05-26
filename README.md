@@ -13,7 +13,7 @@ Each category aims to address specific sub-questions, utilizing custom SQL code 
 
 To achieve this, the initial steps involve cleaning the raw data followed by conducting exploratory data analysis (EDA).
 
-## Data Sources
+## Data Sources 
 To conduct this analysis, I utilized my 2022 NFT transaction data stored in the file named ['NFT_Raw_Data.csv'](https://github.com/Mokakash/NFT_Profitability_Project_SQL/blob/main/NFT_Raw_Data.csv), available in the repository.
 
 Note:
