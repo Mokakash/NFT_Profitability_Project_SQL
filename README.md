@@ -6,7 +6,7 @@ The primary objectives of this project encompass a comprehensive analysis of 202
 + Profit Analysis
 + Profitability by Trading Methods
 + Alpha Group Performance
-+ Monthly Analysis 
++ Monthly Analysis
 + Wallet Performance
 
 Each category aims to address specific sub-questions, utilizing custom SQL code to delve into understanding profit generation, trading method efficiency, alpha group contributions, monthly trends, and individual wallet performance within the NFT trading landscape.
